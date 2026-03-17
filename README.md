@@ -68,26 +68,27 @@ Performance Comparison
 ## Simulation Waveforms
 
 ### 28T Timing Diagram
-![28T Waveform](images/waveform_28T.png)
+![28T Waveform](images/adder28T_wave.png)
 
 ### 24T Timing Diagram
-![24T Waveform](images/waveform_24T.png)
+![24T Waveform](images/adder24T_wave%20.png)
 
 ### 14T Timing Diagram
-![14T Waveform](images/waveform_14T.png)
+![14T Waveform](images/adder%2014T%20wave.png)
 
 ---
 
 ## Physical Layouts
 
 ### 28T Layout
-![28T Layout](images/layout_28T.png)
+![28T Layout](images/ader28T_layout.png)
 
 ### 24T Layout
-![24T Layout](images/layout_24T.png)
+![24T Layout](images/adder14_layout.png)
 
 ### 14T Layout
-![14T Layout](images/layout_14T.png)
+![14T Layout](images/adder14T.png)
+
 
 ---
 
