@@ -87,12 +87,13 @@ Performance Comparison
 ![24T Layout](images/adder14_layout.png)
 
 ### 14T Layout
-![14T Layout](images/adder14T.png)
+![14T Layout](images/adder14T_layout.png)
 
 
 ---
 
 ## Performance Results
+![Results Table](images/Tabular%20Column.png)
 
 ### Proposed Design Results
 
