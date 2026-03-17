@@ -84,7 +84,7 @@ Performance Comparison
 ![28T Layout](images/ader28T_layout.png)
 
 ### 24T Layout
-![24T Layout](images/24t%adderlaout.png)
+![24T Layout](images/24t%adder%laout.png)
 
 ### 14T Layout
 ![14T Layout](images/adder14_layout.png)
