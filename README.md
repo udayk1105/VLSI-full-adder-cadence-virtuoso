@@ -52,6 +52,45 @@ Performance Comparison
 
 ---
 
+## Schematics
+
+### 28T Full Adder Schematic
+![28T Schematic](images/adder28T.png)
+
+### 24T Full Adder Schematic
+![24T Schematic](images/adder_24T.png)
+
+### 14T Full Adder Schematic
+![14T Schematic](images/adder 14T sch.png)
+
+---
+
+## Simulation Waveforms
+
+### 28T Timing Diagram
+![28T Waveform](images/waveform_28T.png)
+
+### 24T Timing Diagram
+![24T Waveform](images/waveform_24T.png)
+
+### 14T Timing Diagram
+![14T Waveform](images/waveform_14T.png)
+
+---
+
+## Physical Layouts
+
+### 28T Layout
+![28T Layout](images/layout_28T.png)
+
+### 24T Layout
+![24T Layout](images/layout_24T.png)
+
+### 14T Layout
+![14T Layout](images/layout_14T.png)
+
+---
+
 ## Performance Results
 
 ### Proposed Design Results
