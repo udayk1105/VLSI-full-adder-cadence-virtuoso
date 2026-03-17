@@ -55,13 +55,13 @@ Performance Comparison
 ## Schematics
 
 ### 28T Full Adder Schematic
-!images/adder28T .png
+![28T Schematic](images/adder28T%20.png)
 
 ### 24T Full Adder Schematic
-![24T Schematic](images/adder_24T.png)
+![24T Schematic](images/adder24T%20.png)
 
 ### 14T Full Adder Schematic
-![14T Schematic](images/adder 14T sch.png)
+![14T Schematic](images/adder%2014T%20sch.png)
 
 ---
 
